@@ -5,3 +5,4 @@ currenty i have made a website  called "gadget garage" which is basically a e-co
 this is my first ever project. i have made it through html ,css and javascript only.
 i am currently studying in NSIT, BiHTA , BIHAR
 I AM IN BTECH CSE (1ST SEMESTER)
+FOR MY FIRST PROJECT I HAVE USED A FREE HOSTING WEBSITE TO HOST MY WEBSITE.

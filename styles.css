@@ -1,0 +1,133 @@
+/* Brand Name Styling */
+.brand-my {
+    color: #7DF9FF;
+  
+}
+
+.brand-shop {
+    text-shadow: #39FF14;
+    color: #39FF14;
+}
+
+/* Top Navbar */
+.navbar-brand {
+    font-size: 1.8rem;
+}
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: orange;
+}
+
+.navbar-nav .nav-link {
+    font-size: 1.1rem;
+    margin-right: 15px;
+}
+
+.navbar-nav .nav-link:hover {
+    color: orange;
+}
+
+.form-control {
+    width: 400px;
+}
+
+/* Secondary Navbar */
+.navbar-light .navbar-nav .nav-link {
+    font-size: 1.1rem;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+    color: orange;
+}
+/*FOR LEFT IMAGE*/
+#ILEFT{
+    border-radius: 10PX;
+}
+
+/* Carousel and Image Section */
+.carousel-item img {
+    border-radius: 10px;
+}
+
+.category-img {
+    width: 150px;
+    height: 150px;
+    border-radius: 200px;
+    
+}
+
+/* Category Cards */
+.category-card {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.category-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+/* Product Cards */
+.product-card {
+    background-color: #f8f9fa;
+    border-radius: 20px;
+    padding: 15px;
+    text-align: center;
+    margin-bottom: 20px;
+    transition: transform 0.2s;
+}
+
+.product-card img {
+    border-radius:20px;
+    width: 100%;
+    height: auto;
+}
+
+.product-card:hover {
+    transform: scale(1.05);
+}
+/* Style for smaller buttons in product cards */
+.product-card button {
+    width: 60%; /* Both buttons have the same width */
+    margin-top: 10px; /* Space between buttons */
+    font-size: 0.8rem; /* Smaller font size for buttons */
+    padding: 6px 12px; /* Smaller padding for a compact look */
+    border-radius: 8px; /* Rounded corners for both buttons */
+    
+}
+
+.product-card .buy-now {
+    margin-top: 10px; /* Ensure consistent spacing between both buttons */
+}
+
+
+
+/* Add to Cart Button */
+.add-to-cart.added {
+    background-color: rgb(240, 148, 10);
+    color: white;
+}
+
+/* Footer */
+footer {
+    padding: 20px 0;
+    width: 100%;
+    text-align: center;
+    padding: 10px 0; /* Reduced padding */
+    width: 100%;
+    text-align: center;
+}
+
+footer .nav-link {
+    color: white;
+    
+    font-size: 1rem; /* Reduced font size */
+}
+
+footer .nav-link:hover {
+    color: orange;
+}
+
+footer p {
+    color: white;
+}
